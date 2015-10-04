@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: mkpkg
+Version: 0.1
+Summary: This is a simple script we wrote to simply make a new python package
+Home-page: http://technigami.com/mkpkg
+Author: Technigami
+Author-email: hello@technigami.com
+License: GNU
+Description: UNKNOWN
+Keywords: script,cli tools,tools
+Platform: UNKNOWN
