@@ -1,5 +1,8 @@
 # mkpkg
-Adds mkpkg script to your command line. 
+mkpkg is just like mkdir, but includes an \_\_init\_\_.py file that includes the date of creation in a comment,
+and optionally a docstring.
+
+This tool adds mkpkg script to your command line. 
 
 ## Installation 
 
